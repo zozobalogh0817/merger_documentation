@@ -1,3 +1,9 @@
+---
+layout: page
+title: Home
+options: { toc: true, menuItem: true, archived: false }
+---
+
 # Installation steps
 1. Download the `program.zip` from [HERE](LINK)
 2. Extract the downloaded `program.zip`
