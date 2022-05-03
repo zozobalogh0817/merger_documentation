@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Usage & Setup
-options: { toc: true, menuItem: true, archived: false }
+options: { toc: true, menuItem: false, archived: false }
 ---
 
 # Installation steps
