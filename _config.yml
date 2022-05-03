@@ -1,7 +1,7 @@
 title: 'Merger Documentation'
 remote_theme: zozobalogh0817/zocs@next
 url: 'https://zozobalogh0817.github.io/merger_documentation'
-path: 'https://zozobalogh0817.github.io/merger_documentation'
+path: 'https://zozobalogh0817.github.io/merger_documentation/usage'
 settings: {
   home: "/",
   redirectTimeOut: 3,
