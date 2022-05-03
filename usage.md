@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Home
+title: Usage & Setup
 options: { toc: true, menuItem: true, archived: false }
 ---
 
@@ -20,7 +20,7 @@ After the extraction you left with a `program` folder and the `program.zip`.
 
 ![after_extract](https://user-images.githubusercontent.com/67690333/166435435-eca4a12a-09e1-4506-a50c-157053f6c38d.png)
 
-## First usage and setup
+# First usage and setup
 
 Go into the `program` folder that we have just created.
 Where we should find the following files and folders
@@ -33,10 +33,10 @@ What will leads us to the application.
 
 ![application](https://user-images.githubusercontent.com/67690333/166435949-39a3b5c5-6494-4c1b-8d00-2eca7c56dc0d.png)
 
-### The application segments
+## The application segments
 If we go from top to buttom there is three segment in the application
 
-#### The first
+### The first
 The soruce file selection and basic settings
 ![segment_select_file](https://user-images.githubusercontent.com/67690333/166436300-8eb69a98-a843-4049-944a-a9741713e867.png)
 
@@ -51,7 +51,7 @@ Here we can
       - you can only start when a source file selected 
 
 
-#### The secound
+### The secound
 **The feedback** from our process. This way we can track the what happening currently.
 
 ![image](https://user-images.githubusercontent.com/67690333/166437196-af89d530-cac1-4e01-92bd-063773168c27.png)
@@ -63,7 +63,7 @@ When a process is active we will get **`logs` and the progress bar will be loadi
 Here we can 
    - Do nothing just watch!
 
-#### The Third
+### The Third
 The `zoned pricing` function 
 
 ![zoned_pricing_default](https://user-images.githubusercontent.com/67690333/166438356-23b71a5f-1fc6-40ef-a65a-1f244341d434.png)
@@ -89,3 +89,5 @@ So for example if an item **costs netto** *1000ft*
   > 1270 + 1143 = 2413
 
 So our *1000ft* item's brutto price will be *2413ft*
+
+
