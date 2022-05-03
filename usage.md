@@ -4,10 +4,8 @@ title: Usage & Setup
 options: { toc: true, menuItem: false, archived: false }
 ---
 
-# Installation steps
-1. Download the `program.zip` from [HERE](LINK)
-2. Extract the downloaded `program.zip`
-3. Use the program 
+# Installation
+1. Extract the `program.zip`
 
 ## Extraction
 
@@ -88,6 +86,35 @@ So for example if an item **costs netto** *1000ft*
   
   > 1270 + 1143 = 2413
 
-So our *1000ft* item's brutto price will be *2413ft*
+So our *1000ft* item's brutto price will *2413ft*
+ 
+## Result save
+
+At the end of the process, will open automatically a `folder selector` where the user can select where wants to save the produced files.
 
 
+# Pictures 
+
+## Picture storing and connection with item's
+Pictures are stored in a folder called `picture-lookup` all pcitures are named by their reference item's number. 
+
+For instance:
+  > So if we have an *O ring* that's item number is *1* then the picture from the *O ring* will be called `1.jpg` or any supported file format.
+
+
+That way the program can detect and connect the picture to a relevant item.
+
+## Zipping pictures, and supported file formats
+Because of the unas's Csoportos Képfeltöltés function, we need to
+  > **zip** pictures by `50mb` to be able to upload them to a webshop as item pictures.
+
+
+Read more about limitations and supported file formats at [UNAS Termék képek](https://unas.hu/tudastar/admin/termek-kepek)
+
+## Watermark on pictures
+Get all the pictures from the `picture-lookup` folder and add watermark with the desired editor!
+Then put all pictures back to the `picture-lookup` folder. 
+
+  > **! PLEASE DO NOT CHANGE THE NAME / FILE NAME OF THE PICTURES UNLESS YOU SURE ABOUT WHAT YOU DOING !**
+
+Thanks for reading if you have any further question feel free to contact me up! [@zozobalogh0817](https://github.com/zozobalogh0817)
